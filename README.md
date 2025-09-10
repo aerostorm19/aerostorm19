@@ -1,12 +1,12 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aerostorm19) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijit-rai-163214280) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhi160407) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhijit60770464) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijitraiisme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijit-rai-163214280) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhijit60770464) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aerostorm19) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhi160407) 
 
 ---
 
-## Hi, I'm Abhijit.
+# Hi, I'm Abhijit.
 In India, friends know me as “Abhi” (short and simple, like the code I try to write).
 
 Electronics & Telecommunication engineer in the making with a passion for embedded systems, FPGA design, and AI-powered security. I love building at the edge of hardware and software whether that’s shaping RISC-V CPUs, crafting SDR pipelines, or engineering systems that scale from lab prototypes to real-world impact.
