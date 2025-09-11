@@ -24,17 +24,13 @@ Electronics & Telecommunication engineer in the making with a passion for embedd
 
 ## 📖 About Me
 
-I’m a 3rd-year Electronics & Telecommunication student at the Army Institute of Technology, Pune an AITian who enjoys building things at the intersection of circuits, code, and curiosity. My research and project interests span embedded systems, FPGA design, computer architecture, and AI-driven cybersecurity.
+I’m a 3rd-year Electronics & Telecommunication student at the Army Institute of Technology, Pune an AITian who loves building things where circuits, code, and curiosity meet. My interests lie in embedded systems, FPGA design, computer architecture, and AI-driven cybersecurity.
 
-Before university, I was that kid pulling apart gadgets just to see how they worked (and sometimes, struggling to put them back together). That curiosity grew into a love for engineering: from designing STM32-based control stacks for autonomous drones to experimenting with SDR pipelines and even tinkering with RISC-V CPUs.
+Ever since I was a kid pulling apart gadgets to see how they worked, I’ve been passionate about engineering. I’ve worked on projects like STM32-based drone control, SDR pipelines, and RISC-V CPUs. More than solving problems, I enjoy creating solutions that make an impact—like predicting Glacial Lake Outburst Floods or building ML-based intrusion prevention systems.
 
-Somewhere along the way, I realized I wasn’t just passionate about solving problems on a breadboard or in Verilog I loved seeing how these technical experiments could scale into real-world impact. That’s what pushed me to projects like our Smart India Hackathon finalist system for predicting Glacial Lake Outburst Floods, or my work on ML-based intrusion prevention.
+Beyond engineering, I’ve led teams at CEAR Robotics, OSS Club, and E-Cell. When I’m not debugging at 2 a.m., you’ll find me sketching, playing basketball, or planning my next project.
 
-Beyond the lab, I’ve served as Embedded Lead at CEAR Robotics Club, leading drone and robot control design, and as Joint Secretary of OSS Club & E-Cell, where I helped run Innerve Hackathon (4,000+ participants) and launched Startup Saga with a team of dreamers and builders.
-
-When I’m not soldering, debugging, or writing another for loop at 2 a.m., you’ll probably find me sketching concept art, hooping on the basketball court, or planning the next project that blends tech with purpose.
-
-I like to think of myself as someone who bridges worlds: core electronics and full-stack software, problem-solving and storytelling, engineering and impact.
+I enjoy bridging hardware and software, creativity and logic, experimentation and real-world impact.
 
 ---
 
