@@ -22,6 +22,13 @@ Electronics & Telecommunication engineer in the making with a passion for embedd
 </div>
 ---
 
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
 ## 📖 About Me
 
 I’m a 3rd-year Electronics & Telecommunication student at the Army Institute of Technology, Pune an AITian who loves building things where circuits, code, and curiosity meet. My interests lie in embedded systems, FPGA design, computer architecture, and AI-driven cybersecurity.
@@ -102,20 +109,28 @@ Development environments and tools that aid in debugging, testing, and deploymen
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📊 LeetCode & Codeforces Stats
+
+<div align="center">
+
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/u/aerostorm19/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/aerostorm19?ext=contest" 
+      alt="LeetCode Stats" 
+    />
+  </a>
+
+</div>
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aerostorm19&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aerostorm19&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aerostorm19&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=aerostorm19&limit=5&theme=dark&combine_all_yearly_contributions=true)
